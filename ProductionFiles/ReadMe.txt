@@ -1,0 +1,1 @@
+This folder contains the production (ProDC) files of the PCB, including the board layout, 3D views, and assembly drawings.

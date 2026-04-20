@@ -1,0 +1,1 @@
+This folder contains the complete hardware schematic of the project, detailing all circuit connections and components.

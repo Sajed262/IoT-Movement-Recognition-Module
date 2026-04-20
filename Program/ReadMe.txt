@@ -1,0 +1,1 @@
+This folder contains the Arduino source code used to program and control the IoT movement recognition module.

@@ -1,0 +1,1 @@
+This folder contains the official datasheets for all the main electronic components used in the project (AM02, BQ24072, SI9185, and TPS63020).
